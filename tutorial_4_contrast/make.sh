@@ -1,0 +1,1 @@
+g++ -ggdb image_contrast.cpp -o image_contrast `pkg-config --cflags --libs opencv`

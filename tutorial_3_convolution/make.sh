@@ -1,0 +1,1 @@
+g++ -ggdb image_convolution.cpp -o image_convolution `pkg-config --cflags --libs opencv`
