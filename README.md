@@ -59,4 +59,14 @@ try solution:
 `sudo rm /opt/ros/kinetic/lib/python2.7/dist-packages/cv2.so`
 
 ### Opencv4 Functions
+1. Basic function: read, show and write image
 
+`$ python3.6 BasicFunction/image.py`
+
+2. Basic function: open camera of your devices
+
+`$ python3.6 BasicFunction/image.py`
+
+3. Basic function: read and save videos
+
+`$ python3.6 BasicFunction/image.py``
