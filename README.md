@@ -59,6 +59,7 @@ try solution:
 `sudo rm /opt/ros/kinetic/lib/python2.7/dist-packages/cv2.so`
 
 ### Opencv4 Functions
+#### Basic Function
 1. Basic function: read, show and write image
 
 `$ python3.6 BasicFunction/image.py`
@@ -69,4 +70,80 @@ try solution:
 
 3. Basic function: read and save videos
 
-`$ python3.6 BasicFunction/image.py``
+`$ python3.6 BasicFunction/image.py`
+#### Elementary Function
+1. Elementary function: Drawing on image
+
+`$ python3.6 SimpleFunction/drawing.py`
+
+2. Elementary function: Mouse event and Keyboard event
+
+`$ python3.6 SimpleFunction/event.py`
+
+3. Elementary function: Trackbar
+
+`$ python3.6 SimpleFunction/trackbar.py`
+
+4. Elementary function: Cut and paste image
+
+`To do`
+
+5. Elementary function: Resize, flip and rotate image
+
+`To do`
+
+#### Intermediate Function
+1. Intermediate Function: Color tracking
+
+`To do`
+
+2. Intermediate Function : Blurrings
+
+`To do`
+
+3. Intermediate Function : Transformations
+
+`To do`
+
+4. Intermediate Function : Image Gradients
+
+`To do`
+
+5. Intermediate Function : Edge Detection
+
+`To do`
+
+6. Intermediate Function : Contours Detection
+
+`To do`
+
+7. Intermediate Function : Image Extraction
+
+`To do`
+
+8. Intermediate Function : Camera Calibration 
+
+#### Advance Function
+1. Advance Function: Coner Detection
+
+2. Advance Function: Feature Matching
+
+3. Advance Function: Pose Estimation
+
+4. Advance Function: Epipolar Geometry
+
+5. Advance Function: Image Denoising
+
+6. Advance Function: Image Inpainting
+
+5. Advance Function: Depth Map <Stereo Images>
+	
+### Some Usages / Projects
+#### Shape/Region Recognition
+To do
+#### Auto-Coloring
+To do
+#### Image Cementation
+To do
+#### High Resizing Resolution
+To do
