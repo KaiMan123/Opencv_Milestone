@@ -1,1 +1,0 @@
-g++ -ggdb image_drawing.cpp -o image_drawing `pkg-config --cflags --libs opencv`

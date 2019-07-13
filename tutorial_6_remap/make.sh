@@ -1,1 +1,0 @@
-g++ -ggdb image_remap.cpp -o image_remap `pkg-config --cflags --libs opencv`

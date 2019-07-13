@@ -1,1 +1,0 @@
-g++ -ggdb image_edge.cpp -o image_edge `pkg-config --cflags --libs opencv`

@@ -1,1 +1,0 @@
-g++ -ggdb fourier.cpp -o fourier `pkg-config --cflags --libs opencv`
