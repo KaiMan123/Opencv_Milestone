@@ -82,4 +82,13 @@ chmod 777 runnable
 ./runnable
 ```
 
-### More
+### Conclusion
+There are still a lots of functions and interesting project about opencv. Here is only my learning experience about opencv. Thus, it only include simple opencv functions or usage. For more, you may look at following website:
+
+[Full python tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html): This web side include c++, java and python opencv tutorial.
+
+[Ramer–Douglas–Peucker algorithm](https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm): It seems high tech and useful for contours detection, but I had not try it before.
+
+[Object tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/): Object tracking is quite simple in computer vision.
+
+[Opencv python + Tensorflow](https://www.itread01.com/content/1546931718.html): Tensorflow is useful packed machine learning library. Include tensorflow can help you handle more difficult computer vision problem with the use of opencv.
